@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    background-image: url("food.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.menu {
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fff8e7;
+    border: 2px solid #6b3e26;
+    text-align: center;
+}
+
+h1 {
+    color: #6b3e26;
+}
+
+.welcome {
+    color: #777;
+}
+
+h2 {
+    background-color: #6b3e26;
+    color: white;
+    padding: 8px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.item {
+    padding: 8px;
+}
+
+.item:hover {
+    background-color: #ead7c3;
+    color: #6b3e26;
+}
